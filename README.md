@@ -1,4 +1,4 @@
-- 😵‍💫 Olá eu sou o Daniel 😵‍💫.
+- 😵‍💫 <strong> Olá eu sou o <em> Daniel </em> </strong>😵‍💫.
 
 
 
