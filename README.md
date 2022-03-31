@@ -4,7 +4,7 @@
 
 <div align="center">
  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=danizelrocha&show_icons=true&theme=vision-friendly-dark" alt="danizelrocha's stats"/>
- <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danizelrocha&layout=compact&theme=vision-friendly-dark" alt="danizelrocha's     most languages"/>
+ <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danizelrocha&layout=compact&theme=vision-friendly-dark" alt="danizelrocha's     most languages"/>
 </div>
   
  <div>
