@@ -3,9 +3,8 @@
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Everyone, I'm <em>Daniel Alves da Rocha.</em> </h1>
 
 <div align="center">
-  <a href="https://github.com/danizelrocha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danizelrocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danizelrocha&layout=compact&langs_count=7&theme=dark"/>
+ <img width="530em" src="https://github-readme-stats.vercel.app/api?username=danizelrocha&show_icons=true&theme=vision-friendly-dark" alt="danizelrocha's stats"/>
+ <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danizelrocha&layout=compact&theme=vision-friendly-dark" alt="danizelrocha's     most languages"/>
 </div>
   
  <div>
