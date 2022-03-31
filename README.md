@@ -1,6 +1,6 @@
-😁 <strong> Hello everyone i'm <em> Daniel </em> </strong>💫.😉
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Everyone, I'm <em>Daniel Alves da Rocha.</em> </h1>
+😁--------------😉💫
 
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Everyone, I'm <em>Daniel Alves da Rocha.</em> </h1>
 
 <div align="center">
   <a href="https://github.com/danizelrocha">
