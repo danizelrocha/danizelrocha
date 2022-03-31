@@ -1,6 +1,4 @@
--😵‍💫 <strong> Olá eu sou o <em> Daniel </em> </strong> 😵‍💫.
-
-
+😁 <strong> Hello everyone i'm <em> Daniel </em> </strong>💫.😉
 
 <div align="center">
   <a href="https://github.com/danizelrocha">
